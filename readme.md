@@ -1,4 +1,5 @@
 # Patrick Dolloso - Data Science Portfolio
+![1](https://patrickdolloso.files.wordpress.com/2018/11/safety-score-heat-map-on-attendance-vs-graduation-rate-in-chicago-public-schools-2011-2012.png)
 ## Welcome!
 * This is my Data Science repository to learn and apply my skills towards solving real world problems using the power of Data.
 ### Table of Contents
