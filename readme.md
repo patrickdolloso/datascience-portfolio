@@ -1,5 +1,5 @@
 # Patrick Dolloso, IBM Data Science Foundations Specialist - Portfolio
-![](./img/1.png)
+![](./img/1.png)  
 [Click - Verify Certification](https://www.youracclaim.com/badges/ae5e2bc5-e3f7-46b8-9683-26cf6d14f331/public_url)
 
 ![1](https://patrickdolloso.files.wordpress.com/2018/11/safety-score-heat-map-on-attendance-vs-graduation-rate-in-chicago-public-schools-2011-2012.png)
